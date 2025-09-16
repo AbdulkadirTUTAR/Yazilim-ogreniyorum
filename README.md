@@ -1,0 +1,2 @@
+# Yazilim-ogreniyorum
+Yazılım öğreniyorum.
